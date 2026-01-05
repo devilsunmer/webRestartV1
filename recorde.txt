@@ -3,3 +3,10 @@ Try to create something and put in Devlope Web about the shop.
 And learn English at here, cause i`m scared chinese will run to a lot bug.
 Acturally convuse and undaerstand here was use in for what?
 First Diary, Trust yourself.
+
+115/01/05
+Developy Java Enviornment refresh and take some update? not sure.
+SQL creat build schame and create some table.
+Build enviornment spent maybe half hours? Forgot a lot install step, so need review.
+But SQL can remember every steps.
+So wired.
